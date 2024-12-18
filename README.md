@@ -1,5 +1,5 @@
 # Math Quiz App
-Ein Android-Projekt für das 3. Semester Mobile Apps für Google Android.
+Ein Android-Projekt für das 3. Semester Software Development.
 ## Projektbeschreibung
 Diese Quiz-App wurde als Semesterprojekt entwickelt. Sie basiert auf dem "Gamification"-Ansatz und soll Teilnehmern helfen, mathematische Grundlagen spielerisch zu vertiefen.
 ## Features
